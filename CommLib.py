@@ -1,0 +1,4 @@
+MIN_POS = 0
+CNT_USEITEMS = 1
+MAX_WORLDSIZE = (get_world_size() - 1)
+MAX_SQUARESIZE = 4
